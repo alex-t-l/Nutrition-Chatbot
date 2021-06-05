@@ -1,0 +1,145 @@
+Macro/Micro Suggestor
+---------
+Talk to the program by typing in plain English. Use lower-case letters for micronutrient and macronutrients.
+Enter Tell me what you know about me when you are done.
+========================================================================
+Hello. What macro/micro do you want to know more of? Or maybe need something to eat?
+> Hello
+Hello
+Hello... I'm glad you could show up today. Feel free to ask about your macros and micros!
+> I am a nutritionist. Let me tell you my name.
+I am a nutritionist. Let me tell you my name.
+Please tell me your name.
+Professor K
+Nice to meet you Professor K.
+> I want to test your knowledge of macros and micros
+I want to test your knowledge of macros and micros
+What does you want to test my knowledge of macros and micros mean?
+> It means I will ask you questions such as....how much fat do you need a day?
+It means I will ask you questions such as....how much fat do you need a day?
+Fat is part of a well balanced diet and should be eaten in moderation, trans fat should be avoided, and saturated fats should be heavily moderated or cut out.
+> Okay. how about how much carbs?
+Okay. how about how much carbs?
+Carbs should make up 45 to 65 percent of your total daily calories, so if you eat 2000 calories a day,  you should aim for 900.0 to 1300.0 calories of your calorie surplus to be in carbs.
+> Amounts can vary depending on gender.
+Amounts can vary depending on gender.
+I do not know your gender. What do you identify as?
+Male
+You identify as You are a Male I will remember this.
+> how much protein in general is needed a day?
+how much protein in general is needed a day?
+You should consume 0.8 grams if protein per kilogram of bodyweight, or 0.36 grams per pound at the minimum.
+> Okay. I am an experienced professor. Let me tell you my age.
+Okay. I am an experienced professor. Let me tell you my age.
+Please tell me your age..
+45
+You are 45.
+eeded a dayyears of teaching, I alway asks students on exams how much sugar is n 
+In my 25 years of teaching, I alway asks students on exams how much sugar is needed a day
+The recommended daily intake of added sugar is no more than 24 grams of sugar for women, 36 grams of sugar for men.
+ drink...! Too many drinks have sugar nowadays. This is why I have this favorite 
+Correct! Too many drinks have sugar nowadays. This is why I have this favorite drink...
+What is your favorite drink?
+Water
+Your favorite drink is Water.
+> Too many foods have sugar too. My favorite food doesn't though
+Too many foods have sugar too. My favorite food doesn't though
+What is your favorite food?
+Broccoli
+Your favorite food is Broccoli.
+> I shall tell you my weight, with broccoli being my main food.
+I shall tell you my weight, with broccoli being my main food.
+I want to know your weight, enter it now.
+120
+Your weight is 250 pounds. Thank you for telling me.
+> Onto the micronutrients.
+Onto the micronutrients.
+What does onto the micronutrients mean?
+> What is a source of calcium?
+What is a source of calcium?
+I'd recommend drinking 3 cups of milk a day.
+> Hum. Okay. What about vitamin e
+Hum. Okay. What about vitamin e
+Almonds and nuts have lots of Vitamin E. Easy to prepare and eat!
+> Not bad. vitamin k?
+Not bad. vitamin k?
+Kale, spinach, turnip greens, and other green vegetables are full of Vitamin K. That's why you should eat your veggies!
+> How about vitamin b6?
+How about vitamin b6?
+Avocadoes and Potatoes are two vegatables that are high in B6.
+> That reminds me, I have a certain fitness level.
+That reminds me, I have a certain fitness level.
+What is your fitness level?
+Good
+Your fitness level is Good.
+> I want to see if you know what has vitamin b6?
+I want to see if you know what has vitamin b6?
+Avocadoes and Potatoes are two vegatables that are high in B6.
+> My bad, i just said that. I meant vitamin b12
+My bad, i just said that. I meant vitamin b12
+Meat, eggs, and anything milk is a great source for Vitamin B12.
+> Numbers of meals a day vary
+Numbers of meals a day vary
+Please tell me how many meals you eat a day..
+4
+You eat 4 meals a day.
+ins biotin?eals a day. I keep track of my micros. Lets continue, what food conta 
+I eat 4 meals a day. I keep track of my micros. Lets continue, what food contains biotin?
+You eat 4 meals a day.
+> What contains biotin?
+What contains biotin?
+You can find biotin in chocolate, cereal, egg yolks, or milk!
+> What about folate?
+What about folate?
+Asparagus and broccoli has plenty of folate.
+> Niacin?
+Niacin?
+Need Niacin? Go for avocados, eggs, enriched breads, lean meats, and nuts!.
+> Pantothenic acid??
+Pantothenic acid??
+Avocados, broccoli, poultry, and white/sweet potatoes have pantothenic acid.
+> What about my favorite, vitamin a?
+What about my favorite, vitamin a?
+Mangoes or peaches are the way to go!
+> Another vitamin, vitamin c
+Another vitamin, vitamin c
+Orange Juice is a great source of Vitamin C.
+> Great! How to get iron?
+Great! How to get iron?
+You'll find plenty of iron in pretty much any red meat.
+> The macros are a big part of a daily calorie surplus
+The macros are a big part of a daily calorie surplus
+What is your calorie surplus? (How many calories do you eat on average in a day? default is 2000.)
+2500
+Your calorie surplus is 2500 calories a day.
+> What food is good for carbs
+What food is good for carbs
+Fruits and vegetables will do the trick to stay fit
+> Tell me about carbs
+Tell me about carbs
+Fruits and vegetables will do the trick to stay fit
+Fruits and vegetables will do the trick to stay fit
+> How about protein
+How about protein
+If you want to go plant based for proteins, eat chickpeas, tofu, soy, nuts, beans, and edemame.
+> Last but not least, let me know about fat
+Last but not least, let me know about fat
+You want to aim to eat good fats. Avocados, Nuts, Olive Oil, are some examples.
+> Thanks for talking today. You passed the test!
+Thanks for talking today. You passed the test!
+No problem!
+> I am about to go to my break. What should I eat?
+I am about to go to my break. What should I eat?
+Lets go for a supergreen salad! I like a mid-day vitamin boost!
+> Alright. Have a good day. Tell me what you know about me
+Alright. Have a good day. Tell me what you know about me
+Your name is Professor K.
+You identify as a Male.
+You weigh 120lbs.
+You are 45 years old.
+Your favorite food is Broccoli! .
+Your favorite beverage is Water.
+The macronutrient you are most curious about is carbohydrates.
+You eat 4 meals per day.
+Your fitness level is Good.
+Your calorie surplus is about 2500 calories per day.

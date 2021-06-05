@@ -1,0 +1,129 @@
+Macro/Micro Suggestor
+---------
+Talk to the program by typing in plain English. Use lower-case letters for micronutrient and macronutrients.
+Enter Tell me what you know about me when you are done.
+========================================================================
+Hello. What macro/micro do you want to know more of? Or maybe need something to eat?
+> Hello
+Hello
+Hello... I'm glad you could show up today. Feel free to ask about your macros and micros!
+> How much protein should i eat today
+How much protein should i eat today
+If you're looking to increase muscle mass, you should eat at least 0.5 to 0.8 grams of protein a day.
+> What is protein anyways?
+What is protein anyways?
+Protein powder is not a bad option if you want to bulk.
+> What should I eat?
+What should I eat?
+How about an egg salad sandwich
+> Yummy
+Yummy
+Delicious! And nutritious...
+> Can I tell you my name?
+Can I tell you my name?
+Please tell me your name.
+Alan
+Nice to meet you Alan.
+> I am going to tell you my gender, too
+I am going to tell you my gender, too
+I do not know your gender. What do you identify as?
+Male
+You identify as You are a Male I will remember this.
+> How much carbs do i need?
+How much carbs do i need?
+Carbs should make up 45 to 65 percent of your total daily calories, so if you eat 2000 calories a day,  you should aim for 900.0 to 1300.0 calories of your calorie surplus to be in carbs.
+> That reminds me of my favorite food...
+That reminds me of my favorite food...
+What is your favorite food?
+Bread!
+Your favorite food is Bread!.
+> How much sugar can I consume?
+How much sugar can I consume?
+The recommended daily intake of added sugar is no more than 24 grams of sugar for women, 36 grams of sugar for men.
+> That reminds me of my favorite drink!
+That reminds me of my favorite drink!
+What is your favorite drink?
+Boba
+Your favorite drink is Boba.
+> I am struggling to get my vitamin b6.
+I am struggling to get my vitamin b6.
+Salmon has so many vitamins, including B6!
+> Do you like salmon, Eliza?
+Do you like salmon, Eliza?
+Maybe you want to ask about what foods have Vitamin B6?
+> I need to lose weight..
+I need to lose weight..
+I want to know your weight, enter it now.
+250
+Your weight is 250 pounds. Thank you for telling me.
+> Can you suggest me a diet?
+Can you suggest me a diet?
+A vegan diet eliminates all meats and animal products. Its great for losing weight but lacks some nutrients typically from meat such as iron or vitamin b12.
+> That sounds great! Any other diets?
+That sounds great! Any other diets?
+The Mediterranean diet has plenty of fruits, vegetables, nuts, seeds, legumes, tubers, whole grains, fish, and seafood. Its good for reducing heart disease risk.
+> thanks for the suggestion!
+thanks for the suggestion!
+No problem!
+> What food are you up to right now?
+What food are you up to right now?
+How about a bowl of rice and chicken? Basic, lean, and delicious.
+> Yum!
+Yum!
+Delicious! And nutritious...
+> I need to get in more fiber, it helps lose pounds.
+I need to get in more fiber, it helps lose pounds.
+A fun way to eat fiber is with popcorn, this is a fun snack food as well, dried fruits, potatoes, and nuts are fiber-y as well.
+> I also gotta cut out some fat
+I also gotta cut out some fat
+Some surprisingly nutritious sources of fats include cheese, dark chocolate, fatty fish, and whole eggs.
+> How much fat should be eaten a day
+How much fat should be eaten a day
+Fat is part of a well balanced diet and should be eaten in moderation, trans fat should be avoided, and saturated fats should be heavily moderated or cut out.
+> I love boba but how much sugar really is okay?
+I love boba but how much sugar really is okay?
+Try to limit your sugar intake, especially added sugar.
+> Oh yeah about my age
+Oh yeah about my age
+Please tell me your age..
+50
+You are 50.
+> I am old and need more zinc
+I am old and need more zinc
+Go with meats, shellfish, and legumes for your source of zinc!
+> Agh...I feel kind of fatigued right now.
+Agh...I feel kind of fatigued right now.
+You're acting like you skipped a meal!
+> As for meals a day
+As for meals a day
+Please tell me how many meals you eat a day..
+5
+You eat 5 meals a day
+You're acting like you skipped a meal!
+> May I tell you my fitness level?
+fitness level
+What is your fitness level?
+Decent!
+Your fitness level is Decent!.
+> I like to run a lot. Btw, where can i get some iron?
+I like to run a lot. Btw, where can i get some iron?
+Lentils are a tasty legume and is high in iron.
+> Old guys like me have a certain calorie surplus...
+Old guys like me have a certain calorie surplus...
+What is your calorie surplus? (How many calories do you eat on average in a day? default is 2000.)
+2000
+Your calorie surplus is 2000 calories a day.
+> I am looking to cut out more, have another diet suggestion?
+The Paleo diet/caveman diet includes lean meats, fish, fruits, vegetables, nuts and seeds. Basically any food that can be hunted and gathered.
+> Alright. Nice to talk with you. Tell me what you know about me
+Alright. Nice to talk with you. Tell me what you know about me
+Your name is Alan.
+You identify as a Male.
+You weigh 250lbs.
+You are 50 years old.
+Your favorite food is Bread! .
+Your favorite beverage is Boba.
+The macronutrient you are most curious about is carbohydrates.
+You eat 5 meals per day.
+Your fitness level is Decent!.
+Your calorie surplus is about 2000 calories per day.

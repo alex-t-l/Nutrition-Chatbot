@@ -1,0 +1,64 @@
+Macro/Micro Suggestor
+---------
+Talk to the program by typing in plain English. Use lower-case letters for micronutrient and macronutrients.
+Enter Tell me what you know about me when you are done.
+========================================================================
+Hello. What macro/micro do you want to know more of? Or maybe need something to eat?
+> Hello there Eliza
+Hello there Eliza
+Hello... I'm glad you could show up today. Feel free to ask about your macros and micros!
+> Can I tell you my name
+Can I tell you my name
+Please tell me your name.
+Alex
+Nice to meet you Alex.
+> Can I tell you my gender
+Can I tell you my gender
+I do not know your gender. What do you identify as?
+Male
+You identify as Male I will remember this.
+> Can I tell you my weight?
+Can I tell you my weight?
+I want to know your weight, enter it now.
+160
+Your weight is 160 pounds. Thank you for telling me.
+> Guess what my favorite food is
+Guess what my favorite food is
+What is your favorite food?
+Chicken
+Your favorite food is Chicken.
+> Guess what my favorite drink is
+Guess what my favorite drink is
+What is your favorite drink?
+Water
+Your favorite drink is Water.
+> My fitness level is
+My fitness level is
+What is your fitness level?
+moderately active
+Your fitness level is moderately active.
+> I eat several meals a day
+I eat several meals a day
+Please tell me how many meals you eat a day..
+4
+You eat 4 meals a day.
+> I have a certain calorie surplus daily
+I have a certain calorie surplus daily
+What is your calorie surplus? (How many calories do you eat on average in a day? default is 2000.)
+2500
+Your calorie surplus is 2500 calories a day.
+> How much protein should I eat in a day
+How much protein should I eat in a day
+You should consume 0.8 grams if protein per kilogram of bodyweight, or 0.36 grams per pound at the minimum.
+
+Tell me what you know about me
+Your name is Alex.
+You identify as a male.
+You weigh 160 lbs.
+You are 19 years old.
+Your favorite food is Chicken.
+Your favorite beverage is Water.
+The macronutrient you are most curious about is carbohydrates.
+You eat 4 meals per day.
+Your fitness level is moderately active.
+Your calorie surplus is about 2500 calories per day.
