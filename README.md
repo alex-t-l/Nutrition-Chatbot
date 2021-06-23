@@ -1,6 +1,5 @@
 ### Authors
 Alan Lai, Alex Lai
-CSS 382 at UW Bothell with Yusuf Pisan
 
 ### How to run program
 Run the main.py to start program, python main.python
